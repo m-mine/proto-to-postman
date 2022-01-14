@@ -4,8 +4,8 @@ import (
 	"github.com/golang/protobuf/jsonpb"
 	"github.com/golang/protobuf/proto"
 	"github.com/jhump/protoreflect/desc"
-	"github.com/sonatard/proto-to-postman/pbdesc"
-	"github.com/sonatard/proto-to-postman/postman"
+	"github.com/m-mine/proto-to-postman/pbdesc"
+	"github.com/m-mine/proto-to-postman/postman"
 	"golang.org/x/xerrors"
 	"google.golang.org/genproto/googleapis/api/annotations"
 )

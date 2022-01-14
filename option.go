@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/sonatard/proto-to-postman/postman"
+	"github.com/m-mine/proto-to-postman/postman"
 	"golang.org/x/xerrors"
 )
 

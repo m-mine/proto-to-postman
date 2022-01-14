@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/jhump/protoreflect/desc/protoparse"
-	"github.com/sonatard/proto-to-postman/postman"
+	"github.com/m-mine/proto-to-postman/postman"
 	"golang.org/x/xerrors"
 )
 
