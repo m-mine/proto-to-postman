@@ -1,4 +1,4 @@
-module github.com/sonatard/proto-to-postman
+module github.com/m-mine/proto-to-postman
 
 require (
 	github.com/golang/protobuf v1.3.1
